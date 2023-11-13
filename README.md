@@ -67,7 +67,7 @@
 <br><br>
 
 ## Collaborations
-- Collaborated with the following people to work on this challenge:
+- Collaborated with the following people on this challenge:
     - Jasleen Kaur (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
     - Vanessa Delgado (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
     - Dianna Stafford (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
