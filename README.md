@@ -64,3 +64,11 @@
     - % of students with math scores of 70 or higher 
     - % of students reading scores of 70 or higher 
     - % of students that passed both math and reading with scores of 70 or higher 
+<br><br>
+
+## Collaborations
+- Collaborated with the following people to work on this challenge:
+    - Jasleen Kaur (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
+    - Vanessa Delgado (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
+    - Dianna Stafford (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
+    - Harsimran Kaur (Private Tutor)
